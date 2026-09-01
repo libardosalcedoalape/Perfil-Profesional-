@@ -27,13 +27,13 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "[Escribe aquí dos o tres frases sobre ti: qué estudias, qué te interesa dentro del desarrollo web y qué estás buscando ahora.]",
+  "about.text":           "Soy estudiante de ingenieria en sistemas, me gusta mucho la tecnologia y el desarrollo de software, actualmente quiero seguir aprendiendo en este  mundo de la tecnologia, adquiriendo nuevas experiencias y fortaleciendo mis conocimientos",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
-  "about.valueLocation":  "[Ciudad], Colombia",
+  "about.valueLocation":  "Espinal-Tolima, Colombia",
   "about.labelEmail":     "Correo",
   "about.labelLanguages": "Idiomas",
-  "about.valueLanguages": "Español (nativo) · Inglés ([tu nivel])",
+  "about.valueLanguages": "Español (nativo) · Inglés (A1)",
   "about.labelStatus":    "Disponibilidad",
   "about.valueStatus":    "Abierto a prácticas",
   "about.interestsTitle": "Intereses",
@@ -56,7 +56,7 @@ const ES = {
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "[Una o dos frases sobre lo que estás aprendiendo y qué sabes hacer ahora.]",
+  "edu.1.text":  "Actualmente estoy aprendiendo el desarrollo de paginas web, tengo bases en java, html y php, ademas de bases de datos con mysql",
   "edu.2.title": "[Curso o certificación]",
   "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
 
@@ -74,11 +74,11 @@ const ES = {
   "project.3.text":  "[Tecnologías usadas]",
 
   "contact.title":         "Contacto",
-  "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
+  "contact.intro":         "Sin necesitas ayuda con desarrollo web o alguna duda con tu marketing contactame",
   "contact.emailLabel":    "Correo",
   "contact.linkedinValue": "[Tu perfil profesional]",
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+  "footer.note": "Libardo Salcedo Alape · Técnico Profesional en Programación Web · UniEspinal"
 };
 
 
@@ -101,13 +101,13 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "[Write two or three sentences about yourself: what you study, what interests you in web development, and what you are looking for now.]",
+  "about.text":           "I am a systems engineering student with a strong interest in technology and software development; I am currently eager to continue learning within the tech world, gaining new experiences and strengthening my knowledge.",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
-  "about.valueLocation":  "[City], Colombia",
+  "about.valueLocation":  "Espinal-Tolima, Colombia",
   "about.labelEmail":     "Email",
   "about.labelLanguages": "Languages",
-  "about.valueLanguages": "Spanish (native) · English ([your level])",
+  "about.valueLanguages": "Spanish (native) · English (A1)",
   "about.labelStatus":    "Availability",
   "about.valueStatus":    "Open to internships",
   "about.interestsTitle": "Interests",
@@ -130,7 +130,7 @@ const EN = {
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "[One or two sentences about what you are learning and what you can do now.]",
+  "edu.1.text":  "I am currently learning web development; I have a foundation in Java, HTML, and PHP, as well as MySQL databases.",
   "edu.2.title": "[Course or certificate]",
   "edu.2.text":  "[What you learned and how you use it.]",
 
@@ -148,11 +148,11 @@ const EN = {
   "project.3.text":  "[Technologies used]",
 
   "contact.title":         "Contact",
-  "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
+  "contact.intro":         "If you need help with web development or have any questions about your marketing, contact me.",
   "contact.emailLabel":    "Email",
   "contact.linkedinValue": "[Your professional profile]",
 
-  "footer.note": "[Your name] · Professional Technician in Web Programming · UniEspinal"
+  "footer.note": "Libardo Salcedo Alape · Professional Technician in Web Programming · UniEspinal"
 };
 
 
