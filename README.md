@@ -14,7 +14,7 @@ A public web page with six sections:
 | Section | What goes there |
 |---|---|
 | Home |My name is Libardo Salcedo Alape, and I am a systems engineering student. tocayito0306@gmail.com|
-| About |  |
+| About | I am a systems engineering student with a strong interest in technology and software development; I am currently eager to continue learning within the tech world, gaining new experiences and strengthening my knowledge. |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
